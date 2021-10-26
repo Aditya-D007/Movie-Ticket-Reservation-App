@@ -9,7 +9,7 @@ https://apnashow.herokuapp.com/
 <h2>FrontEnd</h2>
 
 <h3>Sign Up Page</h3>
-<img src="Screenshots/2020-11-26.png">
+<img src="Screenshot 2021-10-26 at 5.34.30 PM.png">
 
 <h3>Sign In Page</h3>
 <img src="Screenshots/2020-11-26%20(1).png">
