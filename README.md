@@ -12,7 +12,10 @@ https://apnashow.herokuapp.com/
 <img src="Screenshots/Screenshot 2021-10-26 at 5.34.30 PM.png">
 
 <h3>Sign In Page</h3>
-<img src="Screenshots/2020-11-26%20(1).png">
+<img src="Screenshots/Screenshot 2021-10-26 at 8.22.43 PM.png">
+<br></br>
+
+<img src="Screenshots/Screenshot 2021-10-26 at 6.18.52 PM.png">
 
 <h3>Home Page</h3>
 <img src="Screenshots/2020-11-26%20(3).png">
